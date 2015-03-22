@@ -1,0 +1,19 @@
+{
+  "name": "intro_to_npm",
+  "version": "0.0.0",
+  "description": "npm instroduction",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kuerbi/mongo-node-course.git"
+  },
+  "author": "Kürbis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kuerbi/mongo-node-course/issues"
+  },
+  "homepage": "https://github.com/kuerbi/mongo-node-course"
+}
